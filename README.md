@@ -29,14 +29,14 @@ What is the business probem that your project is trying to solve?
 
 
 ## Conclusions
-- # For seasons the value 3(Fall) has the highest median cnt
-- # For yr 2019(which is coded as 1) has the highest median cnt
-- # Among months july seems to have the highest median
-- # median cnt is higher for non-holidays
-- # For weathersit the category 1(Clear, Few clouds, Partly cloudy, Partly cloudy) has the highest median cnt
-- # Working day seems to have the same impact as no working day on median cnt
+- For seasons the value 3(Fall) has the highest median cnt
+- For yr 2019(which is coded as 1) has the highest median cnt
+- Among months july seems to have the highest median
+- median cnt is higher for non-holidays
+- For weathersit the category 1(Clear, Few clouds, Partly cloudy, Partly cloudy) has the highest median cnt
+- Working day seems to have the same impact as no working day on median cnt
 
-- The correlaƟon between cnt and temp along with correlaƟon between cnt and atemp is very high.
+- The correlation between cnt and temp along with correlaƟon between cnt and atemp is very high.
 - yr, const, atemp, season_winter, weekday_sun, mnth_sep are the top five positive drivers to cnt
 - mnth_nov, temp, season_spring, workingday, weathersit_cloudy are the top five negative drivers to cnt
 
@@ -50,25 +50,20 @@ cnt = 2831.0805*const + 3778.3653*yr + 2018.3781*atemp + 813.5149*season_winter 
 
 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
-- library - Pandas, numpy, Scikit-learn
+- library - Pandas, NumPy, Scikit-learn
 - library - Statsmodel
-- library - Jupyterlab
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- library - Jupyter Notebook
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by the instructors at IIIT Bangalore and UpGrad
+- [References if any...](https://scikit-learn.org/stable/)
+- This project was based on [this tutorial](https://www.kaggle.com/code/pythonafroz/pipeline-step-by-step-guide).
 
 
 ## Contact
-Created by @AshutoshKUmarDSE - feel free to contact me!
+Created by @AshutoshKumarDSE - feel free to contact me!
 
 
 <!-- Optional -->
