@@ -1,7 +1,7 @@
 # Project Name
 > Bike Sharing Case Study
- This case study is part of the requirement for Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore.
- It has a detailed Jupyter Notebook, answers to subjective questions as pdf and the data used for the study
+> This case study is part of the requirement for Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore.
+> It has a detailed Jupyter Notebook, answers to subjective questions as pdf and the data used for the study
  
 
 ## Table of Contents
