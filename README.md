@@ -44,10 +44,10 @@ What is the business probem that your project is trying to solve?
 
 the linear regression equation is below
 
-cnt = 2831.0805*const + 3778.3653*yr + 2018.3781*atemp + 813.5149*season_winter +445.2129*weekday_sun +
-    435.4007*mnth_sep + 402.3615*windspeed + 360.0866*mnth_mar + 314.9842*mnth_may +-469.9609*weathersit_misty
-    -479.9611*mnth_dec -564.0854*mnth_jul -648.2251*mnth_nov -904.9624*temp -1124.5386*season_spring
-    -1491.7928*workingday -1841.5558*weathersit_cloudy
+cnt = 2831.0805*const + 3778.3653 * yr + 2018.3781 * atemp + 813.5149 * season_winter +445.2129 * weekday_sun +
+    435.4007 * mnth_sep + 402.3615 * windspeed + 360.0866 * mnth_mar + 314.9842 * mnth_may +-469.9609 * weathersit_misty
+    -479.9611 * mnth_dec -564.0854 * mnth_jul -648.2251 * mnth_nov -904.9624 * temp -1124.5386 * season_spring
+    -1491.7928 * workingday -1841.5558 * weathersit_cloudy
 
 
 
