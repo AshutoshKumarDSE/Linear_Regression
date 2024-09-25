@@ -58,8 +58,8 @@ cnt = 2831.0805*const + 3778.3653*yr + 2018.3781*atemp + 813.5149*season_winter 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by the instructors at IIIT Bangalore and UpGrad
-- [References if any...](https://scikit-learn.org/stable/)
-- This project was based on [this tutorial](https://www.kaggle.com/code/pythonafroz/pipeline-step-by-step-guide).
+- [References if any...](https://www.kaggle.com/code/pythonafroz/pipeline-step-by-step-guide)
+- This project was based on [this tutorial](https://scikit-learn.org/stable/).
 
 
 ## Contact
